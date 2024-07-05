@@ -1,0 +1,24 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Compiled Python modules
+*.pyc
+
+# Local development configuration
+instance/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Static files
+static/uploads/
+
+# Dependency directories (if using virtual environments)
+venv/
+env/
+pnue.h5
